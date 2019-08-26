@@ -1,5 +1,11 @@
-- Type Annotations: Code we add to tell TypeScript what type of value a variable will refer to. We can use primitive types and object types.
-- Type inference: TypeScript tried to figure out what type of value a variable refers to
+- Type Annotations for variables:
+
+Code we add to tell TypeScript what type of value a variable will refer to. We can use primitive types and object types.
+
+- Type inference for variables:
+
+TypeScript tried to figure out what type of value a variable refers to
+
 - Annotations for arrays:
 
 ```ts
