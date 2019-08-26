@@ -1,0 +1,16 @@
+- A type is a shortcut to refer to the different properties and functions that a value has
+- Types:
+  - Primitive types:
+    - number
+    - boolean
+    - void
+    - undefined
+    - string
+    - symbol
+    - null
+  - Object types: we call this object types because we can write code to trick typescript to think that one value is another type, which was cannot do to primitive types
+    - functions
+    - arrays
+    - classes
+    - objects
+- Use types in TypeScript everywhere.
